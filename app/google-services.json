@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "378264187804",
+    "firebase_url": "https://fire-messaging-8baad.firebaseio.com",
+    "project_id": "fire-messaging-8baad",
+    "storage_bucket": "fire-messaging-8baad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378264187804:android:472d8f9970027aa6",
+        "android_client_info": {
+          "package_name": "in.co.locato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378264187804-f9apbpnlirmlq0grmmdit0jr8rf832j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.co.locato",
+            "certificate_hash": "0ece54da2ea4b29598404ee5dd935367ff7c7d10"
+          }
+        },
+        {
+          "client_id": "378264187804-2fennc8p9a6i1uvhcnueilmrsh38d6mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX6M1QN9gHhpQbG5cegjV8pFoD3xNRh10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378264187804-2fennc8p9a6i1uvhcnueilmrsh38d6mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
